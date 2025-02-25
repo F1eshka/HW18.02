@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\Client18.02\Client18.02\bin\Debug\net8.0\Client18.02.exe
+C:\Users\Rog\source\repos\Client18.02\Client18.02\bin\Debug\net8.0\Client18.02.deps.json
+C:\Users\Rog\source\repos\Client18.02\Client18.02\bin\Debug\net8.0\Client18.02.runtimeconfig.json
+C:\Users\Rog\source\repos\Client18.02\Client18.02\bin\Debug\net8.0\Client18.02.dll
+C:\Users\Rog\source\repos\Client18.02\Client18.02\bin\Debug\net8.0\Client18.02.pdb
+C:\Users\Rog\source\repos\Client18.02\Client18.02\obj\Debug\net8.0\Client18.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\Client18.02\Client18.02\obj\Debug\net8.0\Client18.02.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\Client18.02\Client18.02\obj\Debug\net8.0\Client18.02.AssemblyInfo.cs
+C:\Users\Rog\source\repos\Client18.02\Client18.02\obj\Debug\net8.0\Client18.02.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\Client18.02\Client18.02\obj\Debug\net8.0\Client18.02.dll
+C:\Users\Rog\source\repos\Client18.02\Client18.02\obj\Debug\net8.0\refint\Client18.02.dll
+C:\Users\Rog\source\repos\Client18.02\Client18.02\obj\Debug\net8.0\Client18.02.pdb
+C:\Users\Rog\source\repos\Client18.02\Client18.02\obj\Debug\net8.0\Client18.02.genruntimeconfig.cache
+C:\Users\Rog\source\repos\Client18.02\Client18.02\obj\Debug\net8.0\ref\Client18.02.dll
